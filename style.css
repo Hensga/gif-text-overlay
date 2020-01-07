@@ -5,6 +5,10 @@
   box-sizing: border-box;
 }
 
+body {
+  overflow: hidden;
+}
+
 .text-overlay {
   font-size: 10px;
   line-height: 10px;
