@@ -1,3 +1,5 @@
+/* Giphy gif by xavieralopez https://giphy.com/gifs/love-animation-art-kv5ek9HvmdqpOYiYxh */
+
 /* Reset */
 * {
   margin: 0;
@@ -7,6 +9,7 @@
 
 body {
   overflow: hidden;
+  background-color: #141010e3;
 }
 
 .text-overlay {
@@ -22,4 +25,8 @@ body {
   height: 100vh;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
+}
+
+.text-overlay > p {
+  color: red;
 }
