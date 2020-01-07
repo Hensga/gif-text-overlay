@@ -4,3 +4,8 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+.text-overlay {
+  font-size: 10px;
+  line-height: 10px;
+}
